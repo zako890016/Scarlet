@@ -1,0 +1,14 @@
+{
+	"META": {
+		"repoName": "zakojb Repo",
+		"repoIcon": "https://cdn.discordapp.com/attachments/965631919695994964/1071350528245780510/icon.jpg"
+	},
+	"MacDirtyCow": [{
+		"name": "Cowabunga",
+		"version": "7.0.4",
+		"down": "https://github.com/leminlimez/Cowabunga/releases/download/v7.0.4/Cowabunga.ipa",
+		"category": "MacDirtyCow",
+		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
+		"bundleID": "com.leemin.Cowabunga"
+	}]
+}
