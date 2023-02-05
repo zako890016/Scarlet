@@ -66,5 +66,12 @@
 		"category": "MacDirtyCow",
 		"description": "A new, enhanced File Manager for iOS devices with the tccd exploit for full file access.",
 		"bundleID": "org.haxi0.santander"
-	}]
+	},{
+                "name": "FilzaEscaped",
+                "version": "0.1",
+                "down": "https://basvtdevelopments.com/download.php?file=FilzaEscaped16.ipa",
+                "category": "MacDirtyCow",
+                "description": "",
+                "bundleID": ""
+        }]
 }
