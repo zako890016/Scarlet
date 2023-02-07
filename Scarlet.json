@@ -11,7 +11,7 @@
 		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
 		"bundleID": "com.leemin.Cowabunga"
 	},{
-        "name": "TrollBox",
+                "name": "TrollBox",
 		"version": "0.1",
 		"down": "https://github.com/c22dev/TrollBox/releases/download/0.1/TrollBox16.ipa",
 		"category": "MacDirtyCow",
@@ -85,6 +85,14 @@
                 "version": "1.0.2",
                 "down": "https://github.com/Avangelista/InstaSpring16/releases/download/1.0.2/InstaSpring16.ipa",
                 "category": "MacDirtyCow",
+                "description": "",
+                "bundleID": ""
+        }],
+"Tweaked App": [{
+                "name": "YouTube iVenced",
+                "version": "18.0.1",
+                "down": "https://github.com/TherionRO/YouTubeiVanced/releases/download/release18.01.6-1/iVanced_18.01.6.ipa",
+                "category": "Tweaked App",
                 "description": "",
                 "bundleID": ""
         }]
